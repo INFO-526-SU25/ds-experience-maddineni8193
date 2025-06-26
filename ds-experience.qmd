@@ -1,7 +1,7 @@
 ---
 title: "Data Science Experience"
-subtitle: "<Name of the Experience>"
-author: "Add your name here"
+subtitle: "<Talk with a Data Scientist - Renewable Energy Project>"
+author: "Sravani Maddineni"
 categories: "Lab"
 
 ---
@@ -18,10 +18,39 @@ categories: "Lab"
 
 Give the information for the experience. 
 
+Part 1: Describe the Experience
+Category Chosen: Talk with a data scientist (graduate student pursuing a Master's in Data Science)
+Name of the person: Rishabh Bhattad 
+Date of Activity: June 24, 2025
+Duration: 30 minutes
+
+Description of the Activity:
+
+For this experience, I spoke with my friend Rishabh Bhattad, who is currently pursuing a Master's degree in Data Science. As part of his coursework, he worked on an advanced project that focused on analyzing global renewable energy capacity growth. His project placed special emphasis on tracking solar energy trends across different countries.
+
+Rishabh Bhattad explained how they used real world datasets from reliable sources like the International Renewable Energy Agency (IRENA), the World Bank, and Solargis. These datasets helped them track how solar energy capacity has changed worldwide from 2000 to 2024. With the help of tools such as R, ggplot2, plotly, and dplyr, they created interactive visualizations to present these trends in a clear and engaging way.
+
+One of the most interesting aspects of their project was the creation of a 3D interactive globe. This globe allows users to explore renewable energy trends by region and by technology, providing a global perspective on how different countries are adopting solar energy.
+
+In addition to building visualizations, the project required integrating tools like Shiny, HTMLWidgets, and JavaScript to develop a user friendly and fully interactive platform. Rishabh Bhattad also shared the challenges they faced, such as merging different datasets, cleaning messy data, and successfully deploying the final application online for public use.
+
+This experience connects directly to what we are learning in class. We’ve been working with tools like ggplot2 to create meaningful visualizations, and talking to Rishabh Bhattad showed me how those same skills can be applied to real world, large scale projects. It also made me appreciate how technical skills and effective storytelling work together to communicate complex information.
+
+
+
 ## Part 2: Summarize your experience {#part-2-summarize-your-experience}
 
 Summary: 
 
+Talking with Rishabh Bhattad gave me a better understanding of how data visualization and analysis are used in the real world beyond just classroom assignments. His project showed how these skills can be applied to large, complex problems like studying global renewable energy trends. It made me realize that data science is not just about numbers but about finding ways to clearly communicate meaningful information.
+
+One thing that stood out to me was how Rishabh Bhattad combined different skills like data wrangling, visualization, and interactivity to tell a complete story with the data. His project involved analyzing how renewable energy, especially solar energy, has been growing across different countries. By carefully preparing the data and presenting it well, he was able to help others understand this complex topic.
+
+I also learned about the specific tools they used in the project. They combined tools like ggplot2, plotly, and Shiny to create interactive, user friendly visualizations. These tools allowed people to explore the data for themselves, rather than just looking at static charts. This made the project more engaging and allowed users to dig deeper into the information that interested them.
+
+Another thing I liked was how the project focused on accessibility and engagement. Rishabh Bhattad explained how they designed the project so that anyone could easily interact with the data. They even included guided narratives to help users understand what they were looking at, making the information accessible to people even if they weren’t experts in data science.
+
+Overall, this conversation inspired me to explore more about interactive visualization tools like Shiny and Globe.gl. It also reminded me that being a good data scientist isn’t just about technical skills  it’s about designing visualizations that clearly communicate information and actively engage people. I now feel more motivated to apply these ideas in my own projects.
 
 ## Submission {#submission}
 
