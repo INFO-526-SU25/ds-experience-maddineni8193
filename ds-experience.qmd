@@ -7,14 +7,7 @@ categories: "Lab"
 ---
 
 
--   [Part 1: Experience data science outside of the classroom](#part-1-experience-data-science-outside-of-the-classroom)
-
--   [Part 2: Summarize your experience](#part-2-summarize-your-experience)
-
--   [Submission](#submission)
-
-
-## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
+## Part 1: Experience data science outside of the classroom 
 
 Give the information for the experience. 
 
@@ -37,9 +30,7 @@ Rishabh Bhattad also shared how the project involved several technical challenge
 This experience connects directly to the concepts we are learning in class. In my Data Analysis and Visualization course, we work with tools like ggplot2 to create meaningful visualizations, and Rishabh Bhattad project demonstrated how those same skills can be applied to real world projects that have global significance. It also showed me how important it is to combine technical knowledge with effective storytelling to communicate complex information clearly.
 
 
-
-
-## Part 2: Summarize your experience {#part-2-summarize-your-experience}
+## Part 2: Summarize your experience
 
 Summary: 
 
@@ -54,6 +45,3 @@ What really stood out to me was how their project made renewable energy data acc
 Overall, this experience inspired me to explore more about interactive visualizations and tools like Shiny and Globe.gl. It also showed me that being a successful data scientist means not only having technical knowledge but also knowing how to communicate results clearly and make them interesting for others. I feel more motivated to apply these lessons to my own coursework and future projects.
 
 
-## Submission {#submission}
-
-Submit the reflection as a PDF under the **Data Science Experience** assignment on GitHub by **Friday, December 06 at 11:59pm.** It must be submitted by the deadline on GitHub to be considered for grading.
